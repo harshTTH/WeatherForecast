@@ -1,0 +1,16 @@
+.title{
+  font-size:35px;
+  color:white;
+  font-weight:500;
+  margin-top: 10px;
+}
+.header{
+  background-color:#f76545;
+  height:80px;
+}
+.Home{
+  height:100vh;
+  background-image: url('./images/pattern.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
